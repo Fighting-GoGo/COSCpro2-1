@@ -1,1 +1,1 @@
-# COSCpro2-1
+# COS Pro
